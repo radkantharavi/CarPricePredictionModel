@@ -10,9 +10,11 @@ AIM- Use price and markups on cars in existing dataset to build a model to predi
 
 Model Evaluation and Accuracy-
 
-		Random Forest		Ridge Regression		Ridge Regression CV		Lasso Regression
-R2		0.930000		0.750000			    0.810000			  0.810000
-Adjusted R2	0.979184		0.750204			    0.812653			  0.812653
-MAE		1528.790000		2700.56				     2390.01		           2429.58
-MAPE		12.0			 21.00				      20.00			     20.0
+	**Random Forest**	**Ridge Regression**	**Ridge Regression CV**	**Lasso Regression**
+R2		0.93			0.75			0.81			0.81
+Adjusted R2	0.979			0.75			0.812			0.812
+MAE		1528.79			2700.56			2390.01			2429.58
+MAPE		12			21			20			20
+![image](https://user-images.githubusercontent.com/61866486/152696648-ddc6053c-b471-4880-8221-940b7b23f796.png)
+
 
